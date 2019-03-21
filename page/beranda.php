@@ -56,6 +56,32 @@
 
 
         <!-- Three columns of text below the carousel -->
+
+<div id="features">
+  <div class="container">
+    <div class="col-md-10 col-md-offset-1 section-title">
+      <center> <h2>Program Study</h2></center>
+    </div>
+    <br>  
+    <br>  
+    <div class="row">
+      <div class="col-xs-6 col-md-4"> <i class="#"></i>
+        <h3>Teknik Industri</h3>
+        <p><img src="img/industri.png"></p>
+      </div>
+      <div class="col-xs-6 col-md-4"> <i class="#"></i>
+        <h3>Teknik Informatika</h3>
+        <p><img src="img/if.jpg" style="width: 300px; height:180px;"></p>
+      </div>
+      <div class="col-xs-6 col-md-4"> <i class="#"></i>
+        <h3>Teknik Sipil</h3>
+        <p><img src="img/sipil.jpg" style="width: 300px; height:180px;"></p>
+      </div>
+    </div>
+  </div>
+  <br>  <br>  
+</div>
+
         <div class="row">
           <div class="col-sm-12 col-md-12">
             <div class="page-header">
@@ -116,6 +142,8 @@
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
         <hr class="featurette-divider">
+
+
 
         <!-- /END THE FEATURETTES -->
 
